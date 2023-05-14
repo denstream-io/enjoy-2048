@@ -27,3 +27,6 @@ A list of lists was used to represent the game board, the following functions; `
 
 A player loses this game of the board is full and not mergeable in all direction, and wins if a tile numbered 2048 is reached...
 
+### How to Run?
+- python project.py
+
