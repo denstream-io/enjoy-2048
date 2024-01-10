@@ -40,5 +40,5 @@ A player loses this game of the board is full and not mergeable in all direction
   ```
 ### step 3: Run the application
   ```
-  python manage.py
+  python project.py
   ```
